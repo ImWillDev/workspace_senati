@@ -1,0 +1,7 @@
+
+
+pandas
+pytorch
+Scikit-learn
+Scipy
+nltk
