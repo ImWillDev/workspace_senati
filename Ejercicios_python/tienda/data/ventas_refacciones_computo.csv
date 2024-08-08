@@ -1,0 +1,11 @@
+producto,cantidad_vendida,precio,fecha_venta,total_generado
+Teclado,50,30,2024-08-01,1500
+Ratón,150,20,2024-08-02,3000
+Monitor,380,150,2024-08-03,57000
+CPU,40,500,2024-08-04,20000
+Memoria RAM,70,80,2024-08-05,5600
+Disco Duro,30,100,2024-08-06,3000
+Fuente de Poder,60,70,2024-08-07,4200
+Placa Base,45,120,2024-08-08,5400
+Impresora,20,200,2024-08-09,4000
+Webcam,100,60,2024-08-10,6000
